@@ -1,0 +1,30 @@
+body, html {
+    background: linear-gradient(skyblue, brown);
+    background-size: cover;
+    text-align: center;
+}
+
+#hero {
+    text-shadow: 0 0 2px white;
+}
+
+table {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+tr {
+    border: 50px ridge black;
+}
+td {
+    width: 250px;
+    height: 200px;
+    border: 15px ridge black;
+}
+
+button {
+    width: 100%;
+    height: 100%;
+    background-color: blue;
+}
